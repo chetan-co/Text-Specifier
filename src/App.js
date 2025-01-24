@@ -1,18 +1,18 @@
 import Navbar from './components/Navbar';
 import TextForm from './components/TextForm';
-import About  from './components/About';
+import About from './components/About';
 import './App.css';
-function App(){
+
+function App() {
   return (
-  <>
-  <Navbar title="Text Specifier" text="About us" />
-  <div className="container my-3">
-  <TextForm heading="Enter the text"/>
-  <About/>
-  </div>
-  </>
-  )
-  };
+    <>
+      <Navbar title="Text Specifier" text="About us" />
+      <div className="container my-3">
+        <TextForm heading="Enter the text" />
+        <About />
+      </div>
+    </>
+  );
+}
 
 export default App;
- 
