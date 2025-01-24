@@ -22,7 +22,7 @@ Text Specifier is a React-based web application that allows users to format text
 - **Bootstrap**: For responsive design and pre-built UI components.
 - **JavaScript**: Implementing text formatting logic and interactivity.
 - **HTML**: Structuring the application layout.
-- **Git/GitHub**: Version control and project hosting.
+
 
 ---
 
